@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 
+  url: MyString
+  total_cost: 9.99
+  paid_cost: 9.99
+  is_express: false
+
+two:
+  user_id: 
+  url: MyString
+  total_cost: 9.99
+  paid_cost: 9.99
+  is_express: false
